@@ -1,0 +1,22 @@
+Package: likeFADR
+Type: Package
+Title: Efficiently Supervised Structure Learning of Generalized
+        Regression Model with Ultra-high Correlated
+        CovariatesEfficiently Supervised Structure Learning of
+        Generalized Regression Model with Ultra-high Correlated
+        Covariates
+Version: 0.1.0
+Author: Wei Liu, Huazhen Lin, Yanyuan Ma and Ying Wei.
+Maintainer: Wei Liu <117020208005@2017.swufe.edu.cn>
+Description: This provides a structural dimensional reduction method for 
+    generalized regression model, inluding FADR model and likeFADR model, which can handle ultra-high regression problems,
+    such as applications with ultra-high dimensional and strongly correlated covariates.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Date: 2018-08-06
+NeedsCompilation: yes
+Depends: MAVE, dr, MASS, randomForest, R (>= 3.0.1)
+LinkingTo: Rcpp, RcppArmadillo
+Built: R 3.3.0; i386-w64-mingw32; 2018-08-12 08:36:20 UTC; windows
+Archs: i386

@@ -1,0 +1,13 @@
+FADR                    Factor Analysis and Dimension Reduction Model.
+cor.mat                 Generate Two Type of Correlation Matrix
+dataSimulator           Generate simulated data for different use.
+evalFADR                Evaluate FADR
+factorm                 Factor Analysis Model
+kernR                   Kernel Function
+kern_derivR             Univariate Kernel Derivative Function
+likeFADR                Supervised ultra-dimensional factor extraction
+                        and dimension reduction
+locallinear2R           Bivariate local linear regression
+locpolyR                Local polynomial regression
+predict.FADR            'predict' method for FADR object.
+predict.likeFADR        'predict' method for likeFADR object.

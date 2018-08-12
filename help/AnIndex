@@ -1,0 +1,12 @@
+cor.mat	cor.mat
+dataSimulator	dataSimulator
+evalFADR	evalFADR
+factorm	factorm
+FADR	FADR
+kernR	kern
+kern_derivR	kern.deriv
+likeFADR	likeFADR
+locallinear2R	locallinear2R
+locpolyR	locpolyR
+predict.FADR	predict.FADR
+predict.likeFADR	predict.likeFADR

@@ -1,0 +1,11 @@
+#exportPattern("^[[:alpha:]]+")
+useDynLib(likeFADR)
+importFrom(Rcpp, evalCpp)
+export(factorm, cor.mat,
+       likeFADR,
+       dataSimulator,
+       FADR, evalFADR,
+       kernR,kern_derivR,locpolyR,locallinear2R,
+       predict.FADR)
+S3method(predict, FADR)
+S3method(predict, likeFADR)
