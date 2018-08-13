@@ -22,3 +22,4 @@ install_github('feiyoung/likeFADR')
   example('FADR')
   example('likeFADR')
 ```
+* If you finish the above steps, it does not work. Then you can download the source file likeFADR_0.1.0.tar.gz and compile it on your machine. Finally, try to use it. 
